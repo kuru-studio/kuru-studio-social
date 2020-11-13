@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:kuru-studio/kuru-studio-social-web.git
+[submodule "server"]
+	path = server
+	url = git@github.com:kuru-studio/kuru-studio-social-server.git
