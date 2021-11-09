@@ -1,7 +1,7 @@
 # Kuru Studio Social
 For new clone projects please pull it via the command below
 ```
-git clone --recurse-submodules https://github.com/editmodelabs/editmode-react.git
+git clone --recurse-submodules https://github.com/kuru-studio/kuru-studio-social.git
 ```
 
 If you've pulled in a normal way and the submodules are missing, please do the commands below
