@@ -20,7 +20,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/BosEriko"><img src="https://github.com/boseriko.png?size=200" width="80px;" alt="Bos Eriko Reyes"/><br /><sub><b>Bos Eriko Reyes</b></sub></a><br /><a href="https://github.com/kuru-project/main-website-client/commits?author=BosEriko" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/BosEriko"><img src="https://github.com/boseriko.png?size=200" width="80px;" alt="Bos Eriko Reyes"/><br /><sub><b>Bos Eriko Reyes</b></sub></a><br /><a href="https://github.com/kuru-studio/kuru-studio-social/commits?author=BosEriko" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/NeonNature"><img src="https://github.com/neonnature.png?size=200" width="80px;" alt="NeonNature"/><br /><sub><b>NeonNature</b></sub></a><br /><a href="https://github.com/kuru-studio/kuru-studio-social/commits?author=NeonNature" title="Code">💻</a></td>
   </tr>
 </table>
 <!-- ALL-CONTRIBUTORS-LIST:END -->
