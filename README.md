@@ -21,8 +21,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/BosEriko"><img src="https://github.com/boseriko.png?size=200" width="80px;" alt="Bos Eriko Reyes"/><br /><sub><b>Bos Eriko Reyes</b></sub></a><br /><a href="https://github.com/kuru-project/main-website-client/commits?author=BosEriko" title="Code">💻</a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://github.com/rpasamonte97"><img src="https://github.com/rpasamonte97.png?size=200" width="80px;" alt="Rommel Pasamonte"/><br /><sub><b>Rommel Pasamonte</b></sub></a><br /><a href="https://github.com/kuru-project/main-website-client/commits?author=BosEriko" title="Code">💻</a></td>
   </tr>
 </table>
